@@ -6,7 +6,7 @@ Steps:
 1. User uploads image.
 
 
-2 Program compresses the image to its maximum size.
+ 2 Program compresses the image to its maximum size.
 
 
 3. And finally give output as a compressed image.
