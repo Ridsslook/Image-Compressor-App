@@ -32,7 +32,7 @@ image-compressor
 
 
 #Link to use :
-https://imagecompressorapp.tiiny.site
+https://ridsslook.github.io/Image-Compressor-App/
 
 URL : file:///C:/Users/welcome/Downloads/OneDrive/Desktop/index.htm
 
