@@ -1,0 +1,45 @@
+body{
+font-family: Arial, sans-serif;
+background:#f4f6f9;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.container{
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0 5px 20px rgba(0,0,0,0.1);
+text-align:center;
+width:350px;
+}
+
+h1{
+margin-bottom:20px;
+}
+
+button{
+margin-top:10px;
+padding:10px 20px;
+border:none;
+background:#007bff;
+color:white;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:disabled{
+background:gray;
+}
+
+#downloadLink{
+display:none;
+margin-top:15px;
+display:block;
+}
+
+canvas{
+display:none;
+}
