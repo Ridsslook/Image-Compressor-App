@@ -34,6 +34,8 @@ image-compressor
 #Link to use :
 https://imagecompressorapp.tiiny.site
 
+URL : file:///C:/Users/welcome/Downloads/OneDrive/Desktop/index.htm
+
 
 #Using API KEY:
 
