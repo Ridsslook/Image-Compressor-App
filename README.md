@@ -17,17 +17,29 @@ How it Works:
 
 
 #Folder Structure :
+
+
+
 image-compressor
+
+
 |
 |-- server.py
+
+
 |
 |-- index.html
 
 
 #How to Run:
-pip install 
+
+
+pip install request
+
 
 #Using API KEY:
+
+
 API_KEY = "tiinyhost" 
 
 
