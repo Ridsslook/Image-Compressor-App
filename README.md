@@ -1,7 +1,7 @@
 # Image-Compressor-App
 This is an APP that compresses the image.
 
-Steps:
+How it Works:
 
  1. User uploads image.
 
@@ -13,3 +13,21 @@ Steps:
 
 
  4. A user can compress the image 3 times consistantly after which have to wait for 10 mins to compress again.
+
+
+
+#Folder Structure :
+image-compressor
+|
+|-- server.py
+|
+|-- index.html
+
+
+#How to Run:
+pip install 
+
+#Using API KEY:
+API_KEY = "tiinyhost" 
+
+
