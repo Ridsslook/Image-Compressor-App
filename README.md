@@ -31,10 +31,8 @@ image-compressor
 |-- index.html
 
 
-#How to Run:
-
-
-pip install request
+#Link to use :
+https://imagecompressorapp.tiiny.site
 
 
 #Using API KEY:
